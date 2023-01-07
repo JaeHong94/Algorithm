@@ -1,4 +1,4 @@
-package baekjoon.bronze;
+package baekjoon.bronze.숫자의_합;
 
 import java.util.Scanner;
 

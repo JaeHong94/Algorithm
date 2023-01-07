@@ -1,4 +1,4 @@
-package baekjoon.bronze;
+package baekjoon.bronze.평균_구하기;
 
 import java.util.Scanner;
 
