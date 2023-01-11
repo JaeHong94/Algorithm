@@ -1,5 +1,7 @@
 # 숫자의 합 - 11720
 
+[문제 링크](https://www.acmicpc.net/problem/11720)
+
 ## 성능 요약
 Memory: 17,724KB, Time: 208ms
 
