@@ -1,8 +1,8 @@
-package baekjoon.bronze2.숫자의_합;
+package baekjoon.bronze4.숫자의_합;
 
 import java.util.Scanner;
 
-public class 숫자의합 {
+public class 숫자의_합 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int num = scan.nextInt();
