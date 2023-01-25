@@ -30,7 +30,6 @@ public class 절대값_힙 {
       } else {
         queue.add(request);
       }
-      System.out.println(queue);
     }
   }
 }
